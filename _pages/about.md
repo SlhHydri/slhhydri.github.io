@@ -16,5 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Computer Engineering Student At IUST. Partial To And Skilled In Python. Enthusiastic About Data Science & AI.
-Contact Me At GMail, Telegram, LinkedIn.
+Computer Engineering student at IUST. Partial to and skilled in python. Enthusiastic about Data Science & AI.
