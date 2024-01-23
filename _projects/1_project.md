@@ -2,6 +2,7 @@
 layout: page
 title: Othello
 description: An implementation of the game Othello.
+tags: othello c basic-programming
 img: assets/img/othello.jpg
 importance: 1
 category: University
