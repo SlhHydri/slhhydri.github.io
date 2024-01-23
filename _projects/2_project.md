@@ -5,7 +5,7 @@ description: An example project.
 img: assets/img/3.jpg
 importance: 1
 category: University
-giscus_comments: true
+giscus_comments: false
 ---
 
 An example project created solely for the purpose of filling this page. Not to be taken seriously.
