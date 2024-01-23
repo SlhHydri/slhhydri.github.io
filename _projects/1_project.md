@@ -17,5 +17,5 @@ This project was a part of the Basic Programming course at IUST.
     </div>
 </div>
 <div class="caption">
-    Some sample images.
+    A sample image.
 </div>
